@@ -69,7 +69,7 @@ int main(){
         S += i;
         }
     }
-    cout << "Tong cac so tu nhien khong lon hon " <<n<< " va khong chia het cho 7 la: " <<S<< std::endl;
+    cout << "Tong cac so tu nhien khong lon hon " <<n<< " va khong chia het cho 7 la: " <<S<< :endl;
 	return 0; 
 }
 
