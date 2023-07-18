@@ -13,5 +13,4 @@ int n, a, tong;
 	}
 	cout << " Tong cac chu so cua la "<< tong << endl;
 	return 0;
-	return 0;
 }  
