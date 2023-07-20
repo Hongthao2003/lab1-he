@@ -38,7 +38,7 @@ int main(){
 	return 0; 
 }
 -------------------A03----------------------
-	#include <iostream>
+#include <iostream>
 #include <cmath> 
 using namespace std;
 
@@ -56,7 +56,7 @@ int main(){
 }
 
 -------------------------------A04-----------------------------------------------------------------
-	#include <iostream>
+#include <iostream>
 #include <cmath> 
 using namespace std;
 
